@@ -45,7 +45,7 @@
   <!-- Technexion customized git. -->
   <project path="cookers" name="cookers" remote="github" revision="tn-o8.1.0_1.3.0_8m-ga" />
   <project path="vendor/nxp-opensource/uboot-imx" name="uboot-imx" remote="motus" revision="tn-o8.1.0_1.3.0_8m-motus" />
-  <project path="vendor/nxp-opensource/kernel_imx" name="kernel_imx" remote="github" revision="tn-o8.1.0_1.3.0_8m-ga" />
+  <project path="vendor/nxp-opensource/kernel_imx" name="kernel_imx" remote="motus" revision="tn-o8.1.0_1.3.0_8m-motus" />
   <project path="device/fsl" name="platform_device_fsl" remote="github" revision="tn-o8.1.0_1.3.0_8m-ga" />
   <project path="vendor/nxp-opensource/imx-mkimage" name="imx-mkimage" remote="github" revision="tn-o8.1.0_1.3.0_8m-ga" />
   <project path="packages/apps/Launcher3" name="platform_packages_apps_Launcher3" remote="github" revision="tn-o8.1.0_1.3.0_8m-ga" />
